@@ -1,0 +1,56 @@
+﻿@model PhoneBook.Models.PhoneBookListIndexModel;
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!--Zoom Profile Images Css-->
+<style>
+    .zoom:hover {
+        -ms-transform: scale(2.5); /* IE 9 */
+        -webkit-transform: scale(2.5); /* Safari 3-8 */
+        transform: scale(2.5);
+    }
+</style>
+
+<!--Count of People in PhoneBook-->
+<div class="alert alert-primary" role="alert">
+    There are @Model.People.Count registered contacts in your phone book.
+</div>
+
+<!--Add new person button-->
+<a class="btn btn-success" asp-action="Add" asp-controller="Home">Add new person</a>
+
+<br />
+<br />
+
+<!--Table to list people in phonebook-->
+<table id="phoneBookTable" class="table table-striped" style="width:100%;">
+    <thead>
+        <tr>
+            <th>Profile Photo</th>
+            <th>Name</th>
+            <th>Surname</th>
+            <th>Phone Number 1</th>
+            <th>Phone Number 2</th>
+            <th>Email Address</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var person in Model.People)
+        {
+            <tr>
+                <td><img class="zoom" src="~/images/@person.ImageName" width="60" height="60" /></td>
+                <td>@person.Name</td>
+                <td>@person.Surname</td>
+                <td>@person.PhoneNumber1</td>
+                <td>@person.PhoneNumber2</td>
+                <td>@person.Email</td>
+                <td>
+                    <a class="btn btn-warning" asp-action="Update" asp-controller="Home" asp-route-id="@person.Id">Update</a> |
+                    <a class="btn btn-danger" asp-action="Delete" asp-controller="Home" asp-route-id="@person.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

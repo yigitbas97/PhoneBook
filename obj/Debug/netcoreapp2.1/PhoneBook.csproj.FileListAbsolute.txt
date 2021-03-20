@@ -1,0 +1,68 @@
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\bin\Debug\netcoreapp2.1\PhoneBook.deps.json
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\bin\Debug\netcoreapp2.1\PhoneBook.runtimeconfig.json
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\bin\Debug\netcoreapp2.1\PhoneBook.runtimeconfig.dev.json
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\bin\Debug\netcoreapp2.1\PhoneBook.dll
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\bin\Debug\netcoreapp2.1\PhoneBook.pdb
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\bin\Debug\netcoreapp2.1\PhoneBook.Views.dll
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\bin\Debug\netcoreapp2.1\PhoneBook.Views.pdb
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.csprojAssemblyReference.cache
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.AssemblyInfoInputs.cache
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.AssemblyInfo.cs
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.RazorAssemblyInfo.cache
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.RazorAssemblyInfo.cs
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.TagHelpers.input.cache
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.TagHelpers.output.cache
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.RazorCoreGenerate.cache
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.RazorTargetAssemblyInfo.cache
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.RazorTargetAssemblyInfo.cs
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.Views.pdb
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.dll
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.pdb
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.genruntimeconfig.cache
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.csproj.CopyComplete
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\obj\Debug\netcoreapp2.1\Razor\Views\Home\Add.cshtml.g.cs
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutOperation.cshtml.g.cs
+C:\Users\yiba_\Desktop\Yazılım Notlarım\Önemli Projeler\PhoneBook\obj\Debug\netcoreapp2.1\Razor\Views\Home\Update.cshtml.g.cs
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\bin\Debug\netcoreapp2.1\PhoneBook.deps.json
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\bin\Debug\netcoreapp2.1\PhoneBook.runtimeconfig.json
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\bin\Debug\netcoreapp2.1\PhoneBook.runtimeconfig.dev.json
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\bin\Debug\netcoreapp2.1\PhoneBook.dll
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\bin\Debug\netcoreapp2.1\PhoneBook.pdb
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\bin\Debug\netcoreapp2.1\PhoneBook.Views.dll
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\bin\Debug\netcoreapp2.1\PhoneBook.Views.pdb
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.csprojAssemblyReference.cache
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.AssemblyInfoInputs.cache
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.AssemblyInfo.cs
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.RazorAssemblyInfo.cache
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.RazorAssemblyInfo.cs
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.TagHelpers.input.cache
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.TagHelpers.output.cache
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.RazorCoreGenerate.cache
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\obj\Debug\netcoreapp2.1\Razor\Views\Home\Add.cshtml.g.cs
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\obj\Debug\netcoreapp2.1\Razor\Views\Home\Update.cshtml.g.cs
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LayoutOperation.cshtml.g.cs
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.RazorTargetAssemblyInfo.cache
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.RazorTargetAssemblyInfo.cs
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.Views.pdb
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.dll
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.pdb
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.genruntimeconfig.cache
+C:\Users\yiba_\Desktop\YazilimNotlarim\OnemliProjeler\PhoneBook\obj\Debug\netcoreapp2.1\PhoneBook.csproj.CopyComplete

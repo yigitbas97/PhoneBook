@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - PhoneBook</title>
+    <link rel="stylesheet" href="~/lib/twitter-bootstrap/css/bootstrap.css" />
+</head>
+<body>
+
+    <!--Navbar-->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" asp-action="Index" asp-controller="Home">
+            <img src="~/images/site_logo.png" width="60" height="60" />
+            PhoneBook
+        </a>
+        <!--Search button-->
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <div class="form-inline my-2 my-lg-0 ml-auto">
+                <input class="form-control mr-sm-2" type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." aria-label="Search">
+            </div>
+        </div>
+    </nav>
+
+    <!--Jumbotron-->
+    <div class="jumbotron jumbotron-fluid">
+        <div class="container" style="text-align:center;">
+            <h1 class="display-4">Phone Book</h1>
+            <p class="lead">You can view your contacts easily.</p>
+        </div>
+    </div>
+
+    <!---Message Control-->
+    <div class="container" style="margin-top:10px; text-align:center;">
+        @if (TempData["message"] != null)
+        {
+            <div class="@TempData["status"]" role="alert">@TempData["message"]</div>
+        }
+    </div>
+
+    <!--Container-->
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; 2020 - PhoneBook</p>
+        </footer>
+    </div>
+
+    <!--Scripts-->
+    <script src="~/lib/jquery/jquery.js"></script>
+    <script src="~/lib/twitter-bootstrap/js/bootstrap.js"></script>
+    <script src="~/lib/jquery-validate/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"></script>
+
+    <!--Js Table Search Filter By Name-->
+    <script>
+        function myFunction() {
+            // Declare variables
+            var input, filter, table, tr, td, i, txtValue;
+            input = document.getElementById("myInput");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("phoneBookTable");
+            tr = table.getElementsByTagName("tr");
+
+            // Loop through all table rows, and hide those who don't match the search query
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td")[1];
+                if (td) {
+                    txtValue = td.textContent || td.innerText;
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        }
+    </script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

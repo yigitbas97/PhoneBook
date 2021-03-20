@@ -1,0 +1,85 @@
+﻿@model PhoneBook.Models.PhoneBookUpdateModel;
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/Shared/_LayoutOperation.cshtml";
+}
+
+<!--Title-->
+<hr />
+<h2 style="text-align:center;">Update Person</h2>
+<hr />
+
+<!--Person Image-->
+<div class="row">
+    <div class="col-md-4"></div>
+    <div align="center" class="col-md-4"><img src="~/images/@Model.ImageName" width="180" height="180" class="rounded-circle" /></div>
+    <div class="col-md-4"></div>
+</div>
+
+<br />
+
+<!--Update person form-->
+<form asp-action="Update" asp-controller="Home" method="post" enctype="multipart/form-data">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+    <div class="row">
+        <input type="hidden" asp-for="@Model.Id" />
+        <div class="col-md-6">
+            <div class="form-group">
+                <label asp-for="@Model.Name" class="control-label"></label>
+                <input asp-for="@Model.Name" class="form-control" placeholder="Example : John" />
+                <span asp-validation-for="@Model.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.Surname" class="control-label"></label>
+                <input asp-for="@Model.Surname" class="form-control" placeholder="Example : Doe" />
+                <span asp-validation-for="@Model.Surname" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.PhoneNumber1" class="control-label"></label>
+                <input asp-for="@Model.PhoneNumber1" class="form-control" placeholder="Example : 905555555555" />
+                <span asp-validation-for="@Model.PhoneNumber1" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="col-md-6">
+            <div class="form-group">
+                <label asp-for="@Model.PhoneNumber2" class="control-label"></label>
+                <input asp-for="@Model.PhoneNumber2" class="form-control" placeholder="Optional" />
+                <span asp-validation-for="@Model.PhoneNumber2" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.Email" class="control-label"></label>
+                <input asp-for="@Model.Email" class="form-control" placeholder="Optional" />
+                <span asp-validation-for="@Model.Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="@Model.Image" class="control-label"></label>
+                <div class="input-group mb-3">
+                    <div class="input-group-prepend">
+                        <span class="input-group-text" id="inputGroupFileAddon01">Upload</span>
+                    </div>
+                    <div class="custom-file">
+                        <input asp-for="@Model.Image" type="file" class="custom-file-input" id="inputGroupFile01" aria-describedby="inputGroupFileAddon01">
+                        <label class="custom-file-label" for="inputGroupFile01">Choose file</label>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <div class="form-group">
+                <input type="submit" value="Update" class="btn btn-success btn-lg btn-block" />
+            </div>
+        </div>
+
+    </div>
+</form>
+
+<!--Back to List-->
+<div>
+    <a asp-action="Index" asp-controller="Home">Back to List</a>
+</div>
+
